@@ -88,12 +88,6 @@ Example:
 
 ---
 
-## 🔗 Useful Links
-
-* [Official Kopiko Website](https://www.kopiko.com/)
-
----
-
 ## 🧑‍💻 Author
 
 **Muhammed Muhsin **
